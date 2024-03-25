@@ -10,7 +10,7 @@ const Features = () => {
           flex justify-end">
             <div className="flex flex-1 lg:min-h-[900px]">
               <Image
-                src="/phone.png"
+                src="./phone.png"
                 alt="phone"
                 width={440}
                 height={1000}

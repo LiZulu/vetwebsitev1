@@ -20,7 +20,7 @@ const AnimalSpecies = ({backgroundImage, title, subtitle}
             <div className="flexCenter gap-4">
               <div className="rounded-full">
                 <Image
-                  src="/rabbit.png"
+                  src="./rabbit.png"
                   alt="map"
                   width={80}
                   height={80}
@@ -70,7 +70,7 @@ const Animals = () => {
               </p>
 
               <Image
-                src="/quote.svg"
+                src="./quote.svg"
                 alt="camp-2"
                 width={186}
                 height={219}

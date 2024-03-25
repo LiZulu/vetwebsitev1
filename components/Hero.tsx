@@ -20,7 +20,7 @@ const Hero = () =>
                             {
                                 Array(5).fill(1).map((_, index) =>(
                                     <Image 
-                                        src="/star.svg"
+                                        src="./star.svg"
                                         key={index}
                                         alt="star"
                                         width={24}
@@ -48,7 +48,7 @@ const Hero = () =>
                         <Button
                             type="button"
                             title="How we work?"
-                            icon="/play.svg"
+                            icon="./play.svg"
                             variant="btn_white_text"
                         />
                     </div>

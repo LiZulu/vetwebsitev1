@@ -13,7 +13,7 @@ const GetApp = () => {
               <Button 
                 type="button"
                 title="Call Us"
-                icon="/phoneicon.png"
+                icon="./phoneicon.png"
                 variant="btn_white"
                 full
               />
@@ -21,7 +21,7 @@ const GetApp = () => {
               <Button 
                 type="button"
                 title="Whatssapp"
-                icon="/whatssapp.png"
+                icon="./whatssapp.png"
                 variant="btn_dark_green_outline"
                 full
               />
@@ -30,7 +30,7 @@ const GetApp = () => {
 
         <div className="flex flex-1 items-center jusify-end">
           <Image
-            src="/attentive.png"
+            src="./attentive.png"
             alt="phones"
             width={550}
             height={870}

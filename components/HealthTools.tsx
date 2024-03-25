@@ -15,7 +15,7 @@ const HealthTools = () => {
 
       <div className="flexCenter max-container relative w-full">
           <Image 
-            src="/img4.jpg"
+            src="./img4.jpg"
             alt="banner"
             width={1440}
             height={580}

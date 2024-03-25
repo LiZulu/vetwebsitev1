@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="flexBetween max-container padding-container relative z-30 py-5">
       <Link href="/">
-        <Image src="/catlogo.png" alt="logo" 
+        <Image src="./catlogo.png" alt="logo" 
           width={74}
           height={29} />
       </Link>
@@ -26,7 +26,7 @@ const Navbar = () => {
         <Button 
           type="button"
           title="Login"
-          icon="/user.svg"
+          icon="./user.svg"
           variant="btn_dark_green" />
       </div>
 

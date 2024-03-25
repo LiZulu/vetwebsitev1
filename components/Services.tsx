@@ -10,7 +10,7 @@ const Services = () => {
           flex justify-end">
             <div className="flex flex-1 lg:min-h-[900px]">
               <Image
-                src="/veterinaryexamination.png"
+                src="./veterinaryexamination.png"
                 alt="wellnessexams"
                 width={440}
                 height={1000}
